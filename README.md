@@ -4,6 +4,8 @@ A web app that lists NASA's facilities (~400) and shows the name, location, and 
 
 ### 🔗 [Open app on Render](https://complex-nasa-bootcamp-6k8t.onrender.com/)
 
+![alt text](image.png)
+
 Built for the **Complex NASA API** challenge:
 
 > Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently.
@@ -25,7 +27,7 @@ Built for the **Complex NASA API** challenge:
 - JavaScript (ES6+ classes, Fetch API)
 - [Orbitron](https://fonts.google.com/specimen/Orbitron) and [Inter](https://fonts.google.com/specimen/Inter) from Google Fonts
 
-![alt text](image.png)
+
 
 ### APIs
 
