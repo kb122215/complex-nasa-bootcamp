@@ -58,6 +58,6 @@ The JavaScript is organized into two classes:
 - Combining data from **two APIs** into one view
 - Using CSS custom properties to keep a brand color system consistent
 
-## Created By
+## 👩‍💻 Created By
 
 [GitHub @kareemahb](https://github.com/kareemahb)
